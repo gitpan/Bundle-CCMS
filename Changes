@@ -1,7 +1,12 @@
 Revision history for Perl extension Bundle::CCMS.
 
-1.01  Tue Feb  1 11:11:03 2005
+1.001  Tue Feb  1 11:11:03 2005
 	- original version created
 
-1.02  Tue Feb  1 12:02:15 2005
+1.002  Tue Feb  1 12:02:15 2005
 	- Moved CCMS.pm to Bundle/ subdirectory
+
+1.003  Tue Feb  7 09:26:54 2005
+	- Added File::Type to the bundle
+	- Fixed version numbers... moved to 3 decimal places.
+

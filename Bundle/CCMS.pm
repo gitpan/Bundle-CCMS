@@ -1,8 +1,9 @@
 package Bundle::CCMS;
 use strict;
 use warnings;
+use vars qw($VERSION);
 
-$VERSION = '1.02';
+$VERSION = sprintf '%d.%03d', q$Revision: 1.3 $ =~ /(\d+)/g;
 
 1;
 
@@ -34,6 +35,8 @@ Config::Tiny
 
 Data::Serializer
 
+XML::Dumper          - required by recent versions of Data::Dumper
+
 Data::Dumper
 
 DBI
@@ -41,6 +44,8 @@ DBI
 File::Spec
 
 File::Basename
+
+File::Type
 
 FreezeThaw
 

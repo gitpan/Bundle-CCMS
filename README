@@ -1,0 +1,20 @@
+Bundle::CCMS version 1.02
+=========================
+
+This is a bundle of modules required for CCMS (Call Center Management System).
+
+INSTALLATION
+
+To install this module, please use the CPAN shell or better yet CPANPLUS.
+
+Please send your suggestions, inquiries, and feedback to
+devel at calltech dot com
+
+COPYRIGHT AND LICENCE
+
+Copyright (c) 2005 CallTech Communications, Inc.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself. 
+
+

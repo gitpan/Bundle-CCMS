@@ -3,7 +3,7 @@ use strict;
 
 WriteMakefile(
     'NAME'  => 'Bundle::CCMS',
-    'VERSION_FROM' => 'CCMS.pm',
+    'VERSION_FROM' => 'Bundle/CCMS.pm',
 );
 
 

@@ -2,7 +2,7 @@ package Bundle::CCMS;
 use strict;
 use warnings;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 1;
 
@@ -14,6 +14,12 @@ Bundle::CCMS - A bundle to install modules required for CCMS (Call Center Manage
 
 =head1 SYNOPSIS
 
+ perl -MCPAN -e 'install Bundle::CCMS'
+
+You can also download the bundle, and install it:
+
+ tar -zxvf Bundle-CCMS*.tar.gz
+ cd Bundle-CCMS*
  perl -MCPAN -e 'install Bundle::CCMS'
 
 =head1 CONTENTS

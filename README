@@ -7,6 +7,15 @@ INSTALLATION
 
 To install this module, please use the CPAN shell or better yet CPANPLUS.
 
+ perl -MCPAN -e 'install Bundle::CCMS'
+
+You can also download the bundle, and install it:
+
+ tar -zxvf Bundle-CCMS*.tar.gz
+ cd Bundle-CCMS*
+ perl -MCPAN -e 'install Bundle::CCMS'
+
+
 Please send your suggestions, inquiries, and feedback to
 devel at calltech dot com
 
